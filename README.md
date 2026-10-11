@@ -58,18 +58,3 @@ Website tidak membutuhkan instalasi package atau server backend. Google Fonts me
 ## Dokumentasi dan SRS
 - [Software Requirements Specification (SRS)](SRS.md)
 - [Dokumentasi Penjelasan Kodingan dan Pengujian](Dokumentasi_Kodingan_dan_SRS.md)
-
-## Validasi sebelum pengumpulan
-- HTML: https://validator.w3.org/nu/
-- CSS: https://jigsaw.w3.org/css-validator/
-- Uji semua skenario pada bagian pengujian di `Dokumentasi_Kodingan_dan_SRS.md`.
-
-Catat hasil validasi dan pengujian yang benar-benar dilakukan. Jangan menyatakan valid 100% sebelum menjalankan validator pada versi final.
-
-## Deployment GitHub Pages
-Buka repository GitHub → **Settings → Pages** → pilih branch `main` dan folder `/ (root)` → **Save**. Setelah GitHub Pages menyediakan alamat situs, salin URL yang muncul ke sini untuk keperluan pengumpulan:
-
-**URL website:** _isi dengan URL GitHub Pages yang benar-benar ditampilkan GitHub._
-
-## Identitas dan penilaian
-Lengkapi identitas mahasiswa, kelas, dosen, dan mata kuliah sesuai format yang diminta dosen sebelum pengumpulan. Jika rubrik yang dibagikan berjumlah 120 poin, konfirmasikan ke dosen apakah total tersebut memang 120 atau perlu dikonversi.
