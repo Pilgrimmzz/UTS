@@ -51,17 +51,17 @@ Catat hasil aktual pada kolom terakhir setelah setiap skenario benar-benar diuji
 
 | No. | Skenario | Hasil yang diharapkan | Hasil aktual |
 |---:|---|---|---|
-| 1 | Buka `index.html` | Beranda dan statistik tampil tanpa error | Belum diuji |
-| 2 | Buka halaman Tentang | Konten Tentang tampil tanpa error JavaScript | Belum diuji |
-| 3 | Submit form kosong | Browser menolak input wajib | Belum diuji |
-| 4 | Tambah tugas valid | Tugas tampil dan statistik diperbarui | Belum diuji |
-| 5 | Tambah input berisi spasi saja | Tugas tidak disimpan | Belum diuji |
-| 6 | Edit tugas | Perubahan tersimpan pada tugas yang tepat | Belum diuji |
-| 7 | Centang status selesai | Status dan statistik berubah | Belum diuji |
-| 8 | Cari kata kunci | Daftar menampilkan kecocokan | Belum diuji |
-| 9 | Pilih filter Pending/Selesai | Hanya status yang sesuai ditampilkan | Belum diuji |
-| 10 | Hapus satu tugas lalu batalkan | Tugas tetap ada jika pembatalan dipilih | Belum diuji |
-| 11 | Reload setelah menambah tugas | Tugas masih tersimpan di browser | Belum diuji |
-| 12 | Aktifkan dark mode lalu pindah halaman/reload | Tema gelap tetap terpilih di kedua halaman | Belum diuji |
-| 13 | Hapus tugas selesai | Hanya tugas selesai yang dihapus setelah konfirmasi | Belum diuji |
-| 14 | Buka di layar ponsel | Konten tidak meluber secara horizontal | Belum diuji |
+| 1 | Buka `index.html` | Beranda dan statistik tampil tanpa error | Berhasil |
+| 2 | Buka halaman Tentang | Konten Tentang tampil tanpa error JavaScript | Berhasil |
+| 3 | Submit form kosong | Browser menolak input wajib | Berhasil |
+| 4 | Tambah tugas valid | Tugas tampil dan statistik diperbarui | Berhasil |
+| 5 | Tambah input berisi spasi saja | Tugas tidak disimpan | Berhasil |
+| 6 | Edit tugas | Perubahan tersimpan pada tugas yang tepat | Berhasil |
+| 7 | Centang status selesai | Status dan statistik berubah | Berhasil |
+| 8 | Cari kata kunci | Daftar menampilkan kecocokan | Berhasil |
+| 9 | Pilih filter Pending/Selesai | Hanya status yang sesuai ditampilkan | Berhasil |
+| 10 | Hapus satu tugas lalu batalkan | Tugas tetap ada jika pembatalan dipilih | Berhasil |
+| 11 | Reload setelah menambah tugas | Tugas masih tersimpan di browser | Berhasil |
+| 12 | Aktifkan dark mode lalu pindah halaman/reload | Tema gelap tetap terpilih di kedua halaman | Berhasil |
+| 13 | Hapus tugas selesai | Hanya tugas selesai yang dihapus setelah konfirmasi | Berhasil |
+| 14 | Buka di layar ponsel | Konten tidak meluber secara horizontal | Belum Diuji |
