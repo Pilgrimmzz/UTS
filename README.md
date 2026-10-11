@@ -22,14 +22,17 @@ MyTask adalah website sederhana untuk membantu mahasiswa mencatat, mencari, mema
 ## Struktur file
 ```text
 UTS/
-├── index.html                         # Halaman Beranda dan pengelolaan tugas
-├── about.html                         # Halaman Tentang
-├── dafo.css                           # Desain, layout responsif, dan tema
-├── 1.js                               # Interaksi tugas dan dark mode
-├── README.md                          # Dokumentasi proyek
-├── SRS.md                             # Software Requirements Specification
-└── Dokumentasi_Kodingan_dan_SRS.md    # Penjelasan implementasi dan pengujian
-```
+├── index.html
+├── about.html
+├── dafo.css
+├── 1.js
+├── README.md
+├── SRS.md
+├── Dokumentasi_Kodingan_dan_SRS.md
+└── foto/
+    ├── AOIN.jpeg
+    ├── CANDI.jpeg
+    └── DAFOjpeg
 
 ## Cara menjalankan
 1. Unduh ZIP repository atau clone repository ini.
