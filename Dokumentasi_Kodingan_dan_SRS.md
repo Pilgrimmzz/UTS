@@ -65,16 +65,3 @@ Catat hasil aktual pada kolom terakhir setelah setiap skenario benar-benar diuji
 | 12 | Aktifkan dark mode lalu pindah halaman/reload | Tema gelap tetap terpilih di kedua halaman | Belum diuji |
 | 13 | Hapus tugas selesai | Hanya tugas selesai yang dihapus setelah konfirmasi | Belum diuji |
 | 14 | Buka di layar ponsel | Konten tidak meluber secara horizontal | Belum diuji |
-
-## 7. Pemeriksaan validasi
-- HTML Nu: https://validator.w3.org/nu/
-- CSS Validator: https://jigsaw.w3.org/css-validator/
-
-Tempel URL file yang dipublikasikan atau unggah file ke validator. Catat pesan error/warning dan perbaiki yang relevan. Dokumen ini tidak mengklaim hasil validator sudah lulus karena validasi harus dilakukan pada versi akhir yang dikumpulkan.
-
-## 8. Catatan sebelum dikumpulkan
-1. Isi identitas mahasiswa, NIM, kelas, dosen, dan mata kuliah jika diminta oleh format tugas.
-2. Jalankan seluruh skenario pengujian dan ganti status “Belum diuji” sesuai hasil nyata.
-3. Jalankan validator HTML/CSS.
-4. Aktifkan GitHub Pages bila URL website diwajibkan dan salin URL aktual dari pengaturan repository.
-5. Pastikan isi laporan sesuai kode final yang benar-benar diserahkan.
