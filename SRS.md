@@ -66,3 +66,10 @@ Aplikasi berupa website sisi-klien dengan dua halaman: Beranda untuk mengelola t
 
 ## 9. Kriteria penerimaan
 Aplikasi dapat diterima apabila halaman dapat dinavigasi, fungsi CRUD tugas bekerja, validasi wajib berjalan, pencarian/filter dan statistik sesuai data, tugas dan tema bertahan setelah reload, serta tampilan dapat digunakan pada desktop dan ponsel. Hasil validasi HTML/CSS dan pengujian harus dicatat setelah benar-benar dijalankan.
+
+## 10. Dokumentasi Kegiatan
+
+
+
+
+
