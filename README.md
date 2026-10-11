@@ -29,7 +29,7 @@ UTS/
 ├── README.md
 ├── SRS.md
 ├── Dokumentasi_Kodingan_dan_SRS.md
-└── foto/
+└── FOTO/
     ├── AOIN.jpeg
     ├── CANDI.jpeg
     └── DAFOjpeg
